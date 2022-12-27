@@ -17,6 +17,6 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
-git clone https://github.com/linkease/istore.git package/istore
-git clone https://github.com/linkease/istore-ui.git package/istore-ui
+#git clone https://github.com/linkease/istore.git package/istore
+#git clone https://github.com/linkease/istore-ui.git package/istore-ui
 git clone https://github.com/kiddin9/luci-theme-edge.git
